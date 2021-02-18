@@ -1,6 +1,6 @@
 # mc-portal-resources
 
-This is my current project: creating Portal (2) in vanilla minecraft. You will need the datapack to use it.  
+This is my current project: creating Portal (2) in vanilla minecraft. You will need the datapack [here](DerBejijing/mc-portal-engine) to use it.  
 
 Rules
 You are allowed to:
