@@ -8,15 +8,15 @@ You are allowed to:
   - add your own stuff
   - showcase it to others
 
-However, you are not allowed to
-    - use it for commercial purposes (eg. selling it), even if you modified it
-    - call it your own
+However, you are not allowed to  
+    - use it for commercial purposes (eg. selling it), even if you modified it  
+    - call it your own  
 
-Please always link me as the creator :)
+Please always link me as the creator :)  
 
 
 **Installation**  
-Drag the .zip archive in your resoucepacks folder.
-Start minecraft.
-Enable the resourcepacks in the options.
-Done!
+Drag the .zip archive in your resoucepacks folder.  
+Start minecraft.  
+Enable the resourcepacks in the options.  
+Done!  
